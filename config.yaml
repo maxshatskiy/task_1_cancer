@@ -1,8 +1,6 @@
 main:
-  components_repository: "https://github.com/maxshatskiy/task_from_BI#components"
-  # All the intermediate files will be copied to this directory at the end of the run.
-  # Set this to null if you are running in prod
-  project_name: nyc_airbnb
+  components_repository: "https://github.com/maxshatskiy/task_1_cancer#components"
+  project_name: task_1_cancer
   experiment_name: development
   steps: all
 etl:
