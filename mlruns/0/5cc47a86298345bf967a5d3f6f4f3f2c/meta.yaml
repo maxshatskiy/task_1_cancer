@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/max/_STUDIES_EDINBURGH/3_rd_semester/task_from_BI/mlruns/0/5cc47a86298345bf967a5d3f6f4f3f2c/artifacts
+end_time: 1666004586190
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 5cc47a86298345bf967a5d3f6f4f3f2c
+run_uuid: 5cc47a86298345bf967a5d3f6f4f3f2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666004574761
+status: 4
+tags: []
+user_id: maxmustermann
